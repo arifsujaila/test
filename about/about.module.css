@@ -1,0 +1,20 @@
+.green{
+    font-size: 20pt;
+    background-color: rgb(28, 172, 172);
+    color: blueviolet;
+}
+.container {
+    padding: 7px;
+    background-color: lightblue;
+    width: 25%;
+  }
+  .green2{
+    font-size: 10pt;
+    color: brown;
+    background-color: black;
+    cursor: grab;
+  }
+  #green{
+    font-weight: bold;
+    font-style: italic;
+  }

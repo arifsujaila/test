@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/app/about/about.module.css"],"sourcesContent":[".green{\r\n    font-size: 20pt;\r\n    background-color: rgb(28, 172, 172);\r\n    color: blueviolet;\r\n}\r\n.container {\r\n    padding: 7px;\r\n    background-color: lightblue;\r\n    width: 25%;\r\n  }\r\n  .green2{\r\n    font-size: 10pt;\r\n    color: brown;\r\n    background-color: black;\r\n    cursor: grab;\r\n  }\r\n  #green{\r\n    font-weight: bold;\r\n    font-style: italic;\r\n  }"],"names":[],"mappings":"AAAA;;;;;;AAKA;;;;;;AAKE;;;;;;;AAMA"}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

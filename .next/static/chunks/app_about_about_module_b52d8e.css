@@ -1,0 +1,26 @@
+/* [project]/app/about/about.module.css [app-client] (css) */
+.about-module__-i9KWa__green {
+  font-size: 20pt;
+  background-color: #1cacac;
+  color: #8a2be2;
+}
+
+.about-module__-i9KWa__container {
+  padding: 7px;
+  background-color: #add8e6;
+  width: 25%;
+}
+
+.about-module__-i9KWa__green2 {
+  font-size: 10pt;
+  color: brown;
+  background-color: #000;
+  cursor: grab;
+}
+
+#about-module__-i9KWa__green {
+  font-weight: bold;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=app_about_about_module_b52d8e.css.map*/

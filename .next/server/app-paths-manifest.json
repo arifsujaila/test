@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/about/page": "app/about/page.js",
+  "/contect/page": "app/contect/page.js",
+  "/contect/service/page": "app/contect/service/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
